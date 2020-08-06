@@ -3,6 +3,7 @@
     <TargetFramework>netcoreapp3.1</TargetFramework>
     <AzureFunctionsVersion>v3</AzureFunctionsVersion>
     <RootNamespace>re-platform-ztmfbr-af-xml-senddata-tmf</RootNamespace>
+    <UserSecretsId>309e3836-ee22-4faa-9f66-976a80993fe1</UserSecretsId>
   </PropertyGroup>
   <ItemGroup>
     <PackageReference Include="Microsoft.NET.Sdk.Functions" Version="3.0.3" />
